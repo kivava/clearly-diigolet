@@ -1,0 +1,1 @@
+javascript:(function(){s=document.createElement("script");s.type="text/javascript";s.src="http://www.diigo.com/javascripts/webtoolbar/diigolet_b_h_b.js";i=document.getElementById('readable_iframe');d=i.contentDocument||i.contentWindow.document;d.body.appendChild(s)})();
